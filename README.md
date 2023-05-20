@@ -4,7 +4,15 @@
 <a href="https://codepen.io/your-work" target="_blank">
   <img src="https://img.shields.io/badge/코드펜--000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
+
+<a href="https://codelove02.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/티스토리 블로그--000000?style=for-the-badge&logo=tistory&logoColor=white">
+</a>
 -->
+
+
+
+
 
 
 
